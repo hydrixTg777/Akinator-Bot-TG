@@ -1,4 +1,4 @@
-# Akinator-Bot
+# Akinator-Bot 🧞
 A Telegram bot where you can play the Akinator Guessing game.
 check out [@aki_akinator_bot](https://t.me/aki_akinator_bot) on Telegram.
 # Deploy to heroku by clicking on the button below..
